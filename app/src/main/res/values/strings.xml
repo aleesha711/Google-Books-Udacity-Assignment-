@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Google Book API</string>
+    <string name="title_activity_book_info">Book Information</string>
+    <string name="action_settings">Settings</string>
+    <string name="anonyomous">Anonyomous</string>
+    <string name="author"><b>Authors: </b></string>
+    <string name="publisher"><b>Publisher: </b></string>
+    <string name="published_date"><b>Published on: </b></string>
+    <string name="description">Description</string>
+    <string name="title">Title : </string>
+    <string name="loading">Loading . . .</string>
+    <string name="network_error">NO NETWORK AVAILABLE</string>
+    <string name="connection_exc">ConnectException</string>\
+    <string name="socket_exc">SocketException</string>
+    <string name="socket">SocketTimeoutException</string>
+    <string name="not_available">Not Available</string>
+    <string name="title_tv">Title</string>
+    <string name="author_tv">Author</string>
+    <string name="not_found">Sorry not found</string>
+</resources>
